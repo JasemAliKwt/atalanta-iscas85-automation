@@ -1,0 +1,204 @@
+before
+after
+end initialazition
+iLastUndetectedFault=1573
+iLastUndetectedFault=1572
+iLastUndetectedFault=1570
+iLastUndetectedFault=1569
+iLastUndetectedFault=1553
+iLastUndetectedFault=1541
+iLastUndetectedFault=1537
+iLastUndetectedFault=1521
+iLastUndetectedFault=1509
+iLastUndetectedFault=1508
+iLastUndetectedFault=1506
+iLastUndetectedFault=1504
+iLastUndetectedFault=1502
+iLastUndetectedFault=1500
+iLastUndetectedFault=1498
+iLastUndetectedFault=1496
+iLastUndetectedFault=1494
+iLastUndetectedFault=1492
+iLastUndetectedFault=1488
+iLastUndetectedFault=1486
+iLastUndetectedFault=1484
+iLastUndetectedFault=1476
+iLastUndetectedFault=1474
+iLastUndetectedFault=1472
+iLastUndetectedFault=1471
+iLastUndetectedFault=1470
+iLastUndetectedFault=1469
+iLastUndetectedFault=1468
+iLastUndetectedFault=1466
+iLastUndetectedFault=1464
+iLastUndetectedFault=1463
+iLastUndetectedFault=1460
+iLastUndetectedFault=1458
+iLastUndetectedFault=1454
+iLastUndetectedFault=1450
+iLastUndetectedFault=1446
+iLastUndetectedFault=1442
+iLastUndetectedFault=1440
+iLastUndetectedFault=1439
+iLastUndetectedFault=1438
+iLastUndetectedFault=1437
+iLastUndetectedFault=1436
+iLastUndetectedFault=1434
+iLastUndetectedFault=1432
+iLastUndetectedFault=1430
+iLastUndetectedFault=1429
+iLastUndetectedFault=1426
+iLastUndetectedFault=1422
+iLastUndetectedFault=1418
+iLastUndetectedFault=1414
+iLastUndetectedFault=1410
+iLastUndetectedFault=1406
+iLastUndetectedFault=1402
+iLastUndetectedFault=1400
+iLastUndetectedFault=1398
+iLastUndetectedFault=1396
+iLastUndetectedFault=1394
+iLastUndetectedFault=1390
+iLastUndetectedFault=1388
+iLastUndetectedFault=1386
+iLastUndetectedFault=1380
+iLastUndetectedFault=1378
+iLastUndetectedFault=1374
+iLastUndetectedFault=1370
+iLastUndetectedFault=1368
+iLastUndetectedFault=1366
+iLastUndetectedFault=1364
+iLastUndetectedFault=1362
+iLastUndetectedFault=1358
+iLastUndetectedFault=1356
+iLastUndetectedFault=1354
+iLastUndetectedFault=1348
+iLastUndetectedFault=1058
+iLastUndetectedFault=1046
+iLastUndetectedFault=1042
+iLastUndetectedFault=1030
+iLastUndetectedFault=898
+iLastUndetectedFault=882
+iLastUndetectedFault=798
+iLastUndetectedFault=782
+iLastUndetectedFault=762
+iLastUndetectedFault=759
+iLastUndetectedFault=730
+iLastUndetectedFault=727
+iLastUndetectedFault=688
+iLastUndetectedFault=609
+iLastUndetectedFault=607
+iLastUndetectedFault=602
+iLastUndetectedFault=601
+iLastUndetectedFault=597
+iLastUndetectedFault=593
+iLastUndetectedFault=592
+iLastUndetectedFault=587
+iLastUndetectedFault=585
+iLastUndetectedFault=580
+iLastUndetectedFault=579
+iLastUndetectedFault=575
+iLastUndetectedFault=571
+iLastUndetectedFault=570
+iLastUndetectedFault=567
+iLastUndetectedFault=566
+iLastUndetectedFault=562
+iLastUndetectedFault=560
+iLastUndetectedFault=552
+iLastUndetectedFault=539
+iLastUndetectedFault=538
+iLastUndetectedFault=534
+iLastUndetectedFault=532
+iLastUndetectedFault=524
+iLastUndetectedFault=507
+iLastUndetectedFault=499
+iLastUndetectedFault=495
+iLastUndetectedFault=487
+iLastUndetectedFault=479
+iLastUndetectedFault=475
+iLastUndetectedFault=463
+iLastUndetectedFault=455
+iLastUndetectedFault=451
+iLastUndetectedFault=443
+iLastUndetectedFault=435
+iLastUndetectedFault=431
+iLastUndetectedFault=423
+iLastUndetectedFault=415
+iLastUndetectedFault=411
+iLastUndetectedFault=407
+iLastUndetectedFault=399
+iLastUndetectedFault=391
+iLastUndetectedFault=387
+iLastUndetectedFault=382
+iLastUndetectedFault=376
+iLastUndetectedFault=374
+iLastUndetectedFault=368
+iLastUndetectedFault=364
+iLastUndetectedFault=362
+iLastUndetectedFault=356
+iLastUndetectedFault=348
+iLastUndetectedFault=344
+iLastUndetectedFault=342
+iLastUndetectedFault=338
+iLastUndetectedFault=332
+iLastUndetectedFault=330
+iLastUndetectedFault=324
+iLastUndetectedFault=320
+iLastUndetectedFault=318
+iLastUndetectedFault=312
+iLastUndetectedFault=310
+iLastUndetectedFault=304
+iLastUndetectedFault=300
+iLastUndetectedFault=298
+iLastUndetectedFault=292
+iLastUndetectedFault=284
+iLastUndetectedFault=280
+iLastUndetectedFault=276
+iLastUndetectedFault=274
+iLastUndetectedFault=268
+iLastUndetectedFault=266
+iLastUndetectedFault=260
+iLastUndetectedFault=256
+41 41 41 41 41 41 41 41 	*******************************************************
+	*                                                     *
+	*          Welcome to atalanta (version 2.0)          *
+	*                                                     *
+	*               Dong S. Ha (ha@vt.edu)                *
+	*            Web: http://www.ee.vt.edu/ha             *
+	*  Virginia Polytechnic Institute & State University  *
+	*                                                     *
+	*******************************************************
+
+******   SUMMARY OF TEST PATTERN GENERATION RESULTS   ******
+1. Circuit structure
+   Name of the circuit                       : c1355
+   Number of primary inputs                  : 41
+   Number of primary outputs                 : 32
+   Number of gates                           : 546
+   Level of the circuit                      : 24
+
+2. ATPG parameters
+   Test pattern generation Mode              : RPT + DTPG + TC
+   Limit of random patterns (packets)        : 16
+   Backtrack limit                           : 10
+   Initial random number generator seed      : 1770141289
+   Test pattern compaction Mode              : REVERSE + SHUFFLE 
+   Limit of shuffling compaction             : 2
+   Number of shuffles                        : 9
+
+3. Test pattern generation results
+   Number of test patterns before compaction : 140
+   Number of test patterns after compaction  : 100
+   Fault coverage                            : 99.492 %
+   Number of collapsed faults                : 1574
+   Number of identified redundant faults     : 8
+   Number of aborted faults                  : 0
+   Total number of backtrackings             : 175
+
+4. Memory used                               : 0.000 MB
+
+5. CPU time
+   Initialization                            : 0.000 Secs
+   Fault simulation                          : 0.017 Secs
+   FAN                                       : 0.017 Secs
+   Total                                     : 0.033 Secs

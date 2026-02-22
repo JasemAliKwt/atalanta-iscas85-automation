@@ -1,0 +1,64 @@
+=== ATALANTA EXPERIMENTAL RESULTS SUMMARY ===
+Date: Tue Feb  3 09:54:49 PST 2026
+Parameters: 
+
+========== c432 ==========
+   Number of primary inputs                  : 36
+   Number of primary outputs                 : 7
+   Number of gates                           : 160
+   Level of the circuit                      : 17
+   Fault coverage                            : 99.046 %
+   Number of test patterns before compaction : 85
+   Total number of backtrackings             : 47
+   Total                                     : 0.000 Secs
+
+========== c499 ==========
+   Number of primary inputs                  : 41
+   Number of primary outputs                 : 32
+   Number of gates                           : 202
+   Level of the circuit                      : 11
+   Fault coverage                            : 96.570 %
+   Number of test patterns before compaction : 94
+   Total number of backtrackings             : 245
+   Total                                     : 0.017 Secs
+
+========== c880 ==========
+   Number of primary inputs                  : 60
+   Number of primary outputs                 : 26
+   Number of gates                           : 383
+   Level of the circuit                      : 24
+   Fault coverage                            : 100.000 %
+   Number of test patterns before compaction : 200
+   Total number of backtrackings             : 0
+   Total                                     : 0.017 Secs
+
+========== c1355 ==========
+   Number of primary inputs                  : 41
+   Number of primary outputs                 : 32
+   Number of gates                           : 546
+   Level of the circuit                      : 24
+   Fault coverage                            : 99.492 %
+   Number of test patterns before compaction : 140
+   Total number of backtrackings             : 175
+   Total                                     : 0.033 Secs
+
+========== c1908 ==========
+   Number of primary inputs                  : 33
+   Number of primary outputs                 : 25
+   Number of gates                           : 880
+   Level of the circuit                      : 40
+   Fault coverage                            : 99.468 %
+   Number of test patterns before compaction : 193
+   Total number of backtrackings             : 95
+   Total                                     : 0.067 Secs
+
+========== c5315 ==========
+   Number of primary inputs                  : 178
+   Number of primary outputs                 : 123
+   Number of gates                           : 2307
+   Level of the circuit                      : 49
+   Fault coverage                            : 98.879 %
+   Number of test patterns before compaction : 780
+   Total number of backtrackings             : 87
+   Total                                     : 0.317 Secs
+

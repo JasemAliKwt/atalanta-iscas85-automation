@@ -1,0 +1,166 @@
+before
+after
+end initialazition
+iLastUndetectedFault=757
+iLastUndetectedFault=756
+iLastUndetectedFault=755
+iLastUndetectedFault=753
+iLastUndetectedFault=751
+iLastUndetectedFault=749
+iLastUndetectedFault=747
+iLastUndetectedFault=745
+iLastUndetectedFault=743
+iLastUndetectedFault=741
+iLastUndetectedFault=739
+iLastUndetectedFault=737
+iLastUndetectedFault=735
+iLastUndetectedFault=733
+iLastUndetectedFault=731
+iLastUndetectedFault=729
+iLastUndetectedFault=727
+iLastUndetectedFault=721
+iLastUndetectedFault=719
+iLastUndetectedFault=713
+iLastUndetectedFault=711
+iLastUndetectedFault=705
+iLastUndetectedFault=703
+iLastUndetectedFault=701
+iLastUndetectedFault=699
+iLastUndetectedFault=697
+iLastUndetectedFault=695
+iLastUndetectedFault=693
+iLastUndetectedFault=692
+iLastUndetectedFault=691
+iLastUndetectedFault=688
+iLastUndetectedFault=685
+iLastUndetectedFault=682
+iLastUndetectedFault=677
+iLastUndetectedFault=674
+iLastUndetectedFault=671
+iLastUndetectedFault=668
+iLastUndetectedFault=663
+iLastUndetectedFault=660
+iLastUndetectedFault=657
+iLastUndetectedFault=654
+iLastUndetectedFault=646
+iLastUndetectedFault=635
+iLastUndetectedFault=632
+iLastUndetectedFault=629
+iLastUndetectedFault=626
+iLastUndetectedFault=616
+iLastUndetectedFault=615
+iLastUndetectedFault=612
+iLastUndetectedFault=602
+iLastUndetectedFault=601
+iLastUndetectedFault=598
+iLastUndetectedFault=590
+iLastUndetectedFault=584
+iLastUndetectedFault=567
+iLastUndetectedFault=564
+iLastUndetectedFault=562
+iLastUndetectedFault=536
+iLastUndetectedFault=534
+iLastUndetectedFault=509
+iLastUndetectedFault=508
+iLastUndetectedFault=506
+iLastUndetectedFault=480
+iLastUndetectedFault=478
+iLastUndetectedFault=452
+iLastUndetectedFault=450
+iLastUndetectedFault=424
+iLastUndetectedFault=422
+iLastUndetectedFault=368
+iLastUndetectedFault=366
+iLastUndetectedFault=354
+iLastUndetectedFault=353
+iLastUndetectedFault=351
+iLastUndetectedFault=350
+iLastUndetectedFault=349
+iLastUndetectedFault=346
+iLastUndetectedFault=345
+iLastUndetectedFault=341
+iLastUndetectedFault=336
+iLastUndetectedFault=333
+iLastUndetectedFault=332
+iLastUndetectedFault=331
+iLastUndetectedFault=329
+iLastUndetectedFault=328
+iLastUndetectedFault=324
+iLastUndetectedFault=323
+iLastUndetectedFault=319
+iLastUndetectedFault=314
+iLastUndetectedFault=311
+iLastUndetectedFault=310
+iLastUndetectedFault=306
+iLastUndetectedFault=305
+iLastUndetectedFault=299
+iLastUndetectedFault=298
+iLastUndetectedFault=292
+iLastUndetectedFault=291
+iLastUndetectedFault=285
+iLastUndetectedFault=284
+iLastUndetectedFault=283
+iLastUndetectedFault=282
+iLastUndetectedFault=278
+iLastUndetectedFault=277
+iLastUndetectedFault=271
+iLastUndetectedFault=270
+iLastUndetectedFault=264
+iLastUndetectedFault=263
+iLastUndetectedFault=257
+iLastUndetectedFault=256
+iLastUndetectedFault=255
+iLastUndetectedFault=247
+iLastUndetectedFault=239
+iLastUndetectedFault=191
+iLastUndetectedFault=167
+iLastUndetectedFault=143
+iLastUndetectedFault=127
+iLastUndetectedFault=119
+iLastUndetectedFault=103
+iLastUndetectedFault=63
+iLastUndetectedFault=47
+iLastUndetectedFault=15
+41 41 41 41 41 41 	*******************************************************
+	*                                                     *
+	*          Welcome to atalanta (version 2.0)          *
+	*                                                     *
+	*               Dong S. Ha (ha@vt.edu)                *
+	*            Web: http://www.ee.vt.edu/ha             *
+	*  Virginia Polytechnic Institute & State University  *
+	*                                                     *
+	*******************************************************
+
+******   SUMMARY OF TEST PATTERN GENERATION RESULTS   ******
+1. Circuit structure
+   Name of the circuit                       : c499
+   Number of primary inputs                  : 41
+   Number of primary outputs                 : 32
+   Number of gates                           : 202
+   Level of the circuit                      : 11
+
+2. ATPG parameters
+   Test pattern generation Mode              : RPT + DTPG + TC
+   Limit of random patterns (packets)        : 16
+   Backtrack limit                           : 10
+   Initial random number generator seed      : 1770141289
+   Test pattern compaction Mode              : REVERSE + SHUFFLE 
+   Limit of shuffling compaction             : 2
+   Number of shuffles                        : 7
+
+3. Test pattern generation results
+   Number of test patterns before compaction : 94
+   Number of test patterns after compaction  : 55
+   Fault coverage                            : 96.570 %
+   Number of collapsed faults                : 758
+   Number of identified redundant faults     : 8
+   Number of aborted faults                  : 18
+   Total number of backtrackings             : 245
+
+4. Memory used                               : 0.000 MB
+
+5. CPU time
+   Initialization                            : 0.000 Secs
+   Fault simulation                          : 0.017 Secs
+   FAN                                       : 0.000 Secs
+   Total                                     : 0.017 Secs

@@ -1,0 +1,136 @@
+before
+after
+end initialazition
+iLastUndetectedFault=523
+iLastUndetectedFault=522
+iLastUndetectedFault=520
+iLastUndetectedFault=519
+iLastUndetectedFault=517
+iLastUndetectedFault=515
+iLastUndetectedFault=511
+iLastUndetectedFault=509
+iLastUndetectedFault=507
+iLastUndetectedFault=503
+iLastUndetectedFault=501
+iLastUndetectedFault=500
+iLastUndetectedFault=499
+iLastUndetectedFault=495
+iLastUndetectedFault=493
+iLastUndetectedFault=492
+iLastUndetectedFault=491
+iLastUndetectedFault=487
+iLastUndetectedFault=485
+iLastUndetectedFault=484
+iLastUndetectedFault=483
+iLastUndetectedFault=479
+iLastUndetectedFault=477
+iLastUndetectedFault=475
+iLastUndetectedFault=471
+iLastUndetectedFault=469
+iLastUndetectedFault=468
+iLastUndetectedFault=467
+iLastUndetectedFault=463
+iLastUndetectedFault=461
+iLastUndetectedFault=460
+iLastUndetectedFault=459
+iLastUndetectedFault=455
+iLastUndetectedFault=453
+iLastUndetectedFault=423
+iLastUndetectedFault=419
+iLastUndetectedFault=415
+iLastUndetectedFault=411
+iLastUndetectedFault=407
+iLastUndetectedFault=403
+iLastUndetectedFault=395
+iLastUndetectedFault=381
+iLastUndetectedFault=375
+iLastUndetectedFault=369
+iLastUndetectedFault=363
+iLastUndetectedFault=357
+iLastUndetectedFault=351
+iLastUndetectedFault=345
+iLastUndetectedFault=339
+iLastUndetectedFault=323
+iLastUndetectedFault=317
+iLastUndetectedFault=311
+iLastUndetectedFault=305
+iLastUndetectedFault=299
+iLastUndetectedFault=293
+iLastUndetectedFault=287
+iLastUndetectedFault=281
+iLastUndetectedFault=259
+iLastUndetectedFault=248
+iLastUndetectedFault=237
+iLastUndetectedFault=226
+iLastUndetectedFault=215
+iLastUndetectedFault=204
+iLastUndetectedFault=193
+iLastUndetectedFault=182
+iLastUndetectedFault=171
+iLastUndetectedFault=163
+iLastUndetectedFault=158
+iLastUndetectedFault=138
+iLastUndetectedFault=126
+iLastUndetectedFault=114
+iLastUndetectedFault=102
+iLastUndetectedFault=90
+iLastUndetectedFault=78
+iLastUndetectedFault=69
+iLastUndetectedFault=65
+iLastUndetectedFault=64
+iLastUndetectedFault=63
+iLastUndetectedFault=55
+iLastUndetectedFault=52
+iLastUndetectedFault=50
+iLastUndetectedFault=49
+iLastUndetectedFault=45
+iLastUndetectedFault=42
+iLastUndetectedFault=39
+iLastUndetectedFault=35
+iLastUndetectedFault=15
+iLastUndetectedFault=7
+iLastUndetectedFault=6
+iLastUndetectedFault=5
+36 36 36 	*******************************************************
+	*                                                     *
+	*          Welcome to atalanta (version 2.0)          *
+	*                                                     *
+	*               Dong S. Ha (ha@vt.edu)                *
+	*            Web: http://www.ee.vt.edu/ha             *
+	*  Virginia Polytechnic Institute & State University  *
+	*                                                     *
+	*******************************************************
+
+******   SUMMARY OF TEST PATTERN GENERATION RESULTS   ******
+1. Circuit structure
+   Name of the circuit                       : c432
+   Number of primary inputs                  : 36
+   Number of primary outputs                 : 7
+   Number of gates                           : 160
+   Level of the circuit                      : 17
+
+2. ATPG parameters
+   Test pattern generation Mode              : RPT + DTPG + TC
+   Limit of random patterns (packets)        : 16
+   Backtrack limit                           : 10
+   Initial random number generator seed      : 1770141289
+   Test pattern compaction Mode              : REVERSE + SHUFFLE 
+   Limit of shuffling compaction             : 2
+   Number of shuffles                        : 4
+
+3. Test pattern generation results
+   Number of test patterns before compaction : 85
+   Number of test patterns after compaction  : 63
+   Fault coverage                            : 99.046 %
+   Number of collapsed faults                : 524
+   Number of identified redundant faults     : 1
+   Number of aborted faults                  : 4
+   Total number of backtrackings             : 47
+
+4. Memory used                               : 0.000 MB
+
+5. CPU time
+   Initialization                            : 0.000 Secs
+   Fault simulation                          : 0.000 Secs
+   FAN                                       : 0.000 Secs
+   Total                                     : 0.000 Secs
